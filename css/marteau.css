@@ -1,0 +1,33 @@
+.tangram--marteau .figure1 {
+    transform: rotate(270deg) translate(-195px,0px);
+    transition: transform 2s;
+}
+
+.tangram--marteau .figure2 {
+    transform: rotate(315deg) skew(-45deg) translate(242px,385px);
+    transition: transform 2s;
+}
+
+.tangram--marteau .figure3 {
+    transform: rotate(0deg) translate(171px,555px);
+    transition: transform 2s;
+}
+
+.tangram--marteau .figure4 {
+    transform: rotate(315deg) translate(-272px,513px);
+    transition: transform 2s;
+}
+
+.tangram--marteau .figure5 {
+    transform: rotate(270deg) translate(-450px,0px);
+    transition: transform 2s;
+}
+
+.tangram--marteau .figure6 {
+    transform: rotate(225deg) translate(-385px,-145px);
+    transition: transform 2s;
+}
+.tangram--marteau .figure7 {
+    transform: translate(256px,-62px);
+    transition: transform 2s;
+}
